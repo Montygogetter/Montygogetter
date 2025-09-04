@@ -14,8 +14,8 @@
 ---
 
 ### 👀 About me
-- Based in **New Braunfels, Texas**; working at **SAIC** supporting **Cloud One / A1DTA**.
-- Finishing a **Master’s in AI & Machine Learning** → accepted to a **Doctorate** program in AI/ML.
+- Based in **San Antonio, Texas**; working at **SAIC** supporting **Cloud One / A1DTA**.
+- Finishing a **Master’s in AI & Machine Learning** → accepted to a **Doctorate** program in AI/ML at Colorado Tech University.
 - Focused on **RAG**, **agentic workflows**, **grounded generation**, and **federal mission** use cases.
 - Currently exploring **USPTO / patent** data as a public benchmark for grounded RAG demos.
 
@@ -31,7 +31,7 @@
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/jessica-jo-montgomery/
-- 
+  
 
 ---
 
