@@ -30,8 +30,8 @@
 - **Delivery:** client-style briefs, citations, verification / auditability
 
 ### 📫 Contact
-- LinkedIn: add your public profile URL here
-- Email: consider using GitHub’s privacy email (Settings → Emails → “Keep my email addresses private”)
+- LinkedIn: https://www.linkedin.com/in/jessica-jo-montgomery/
+- 
 
 ---
 
